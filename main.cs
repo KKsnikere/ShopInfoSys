@@ -53,8 +53,9 @@ namespace ShopUsers
                 Console.WriteLine("\nChoose option: ");
                 Console.WriteLine("1. Show clients");
                 Console.WriteLine("2. Add client");
-                Console.WriteLine("3. Back to file selection");
-                Console.WriteLine("4. Close program");
+                Console.WriteLine("3. Delete client(s)");
+                Console.WriteLine("4. Back to file selection");
+                Console.WriteLine("5. Close program");
                 Console.Write("Enter action number: ");
                 string choice = Console.ReadLine();
                 Console.WriteLine(new string('-', 105));
@@ -67,9 +68,14 @@ namespace ShopUsers
                     case "2":
                         AddData.AddClientData(filename);
                         break;
+
                     case "3":
-                        return;
+                        DeleteData.DataDeliting("klienti.txt");
+                        break;
+
                     case "4":
+                        return;    
+                    case "5":
                         Environment.Exit(0);
                         break;
                     default:
@@ -88,8 +94,9 @@ namespace ShopUsers
                 Console.WriteLine("\nChoose option: ");
                 Console.WriteLine("1. Show products");
                 Console.WriteLine("2. Add product");
-                Console.WriteLine("3. Back to file selection");
-                Console.WriteLine("4. Close program");
+                Console.WriteLine("3. Delete product(s)");
+                Console.WriteLine("4. Back to file selection");
+                Console.WriteLine("5. Close program");
                 Console.Write("Enter action number: ");
                 string choice = Console.ReadLine();
                 Console.WriteLine(new string('-', 105));
@@ -103,8 +110,11 @@ namespace ShopUsers
                         AddData.AddItemData(filename);
                         break;
                     case "3":
-                        return;
+                        DeleteData.DataDeliting("preces.txt");
+                        break;
                     case "4":
+                        return;
+                    case "5":
                         Environment.Exit(0);
                         break;
                     default:
@@ -123,8 +133,9 @@ namespace ShopUsers
                 Console.WriteLine("\nChoose option: ");
                 Console.WriteLine("1. Show orders");
                 Console.WriteLine("2. Add order");
-                Console.WriteLine("3. Back to file selection");
-                Console.WriteLine("4. Close program");
+                Console.WriteLine("3. Delete order(s)");
+                Console.WriteLine("4. Back to file selection");
+                Console.WriteLine("5. Close program");
                 Console.Write("Enter action number: ");
                 string choice = Console.ReadLine();
 
@@ -137,8 +148,11 @@ namespace ShopUsers
                         AddData.AddOrderData(filename);
                         break;
                     case "3":
-                        return;
+                        DeleteData.DataDeliting("pasutijumi.txt");
+                    break;
                     case "4":
+                        return;
+                    case "5":
                         Environment.Exit(0);
                         break;
                     default:
