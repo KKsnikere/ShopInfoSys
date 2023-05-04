@@ -1,0 +1,32 @@
+Aivars|Liepiņš|aivarsliepins@gmail.com|26874563|Raiņa bulvāris 15, Rīga, LV-1050
+Ieva|Kļaviņa|ievaklavina@hotmail.com|29167844|Skolas iela 4, Valmiera,L4201
+Andris|Ozols|andrisozols@yahoo.com|27893014|Kalnciema iela 40-19, Rīga,L1046
+Laura|Briede|laurabriede@gmail.com|28455678|Baznīcas iela 2-1, Jelgava,LV-3001
+Jānis|Zvirbulis|janiszvirbulis@gmail.com|28477226|Brīvības iela 87-15, Rēzekne, LV-4601
+Māra|Eglīte|maaraeglite@yahoo.com|29734501|Rūpniecības iela 11-3, Liepāja, LV-3401
+Kaspars|Bērziņš|kasparsberzins@hotmail.com|26118944|Zeltītes iela 22-10, Jūrmala, LV-2015
+Līga|Roze|ligaroze@yahoo.com|29145703|Pulkv. Brieža iela 2-6, Sigulda, LV-2150
+Edgars|Zībergs|edgarszibergs@gmail.com|28486689|Raiņa iela 8-3, Daugavpils, LV-5401
+Liena|Pētersone|lienapetersone@hotmail.com|26817322|Dzirciema iela 26-18, Rīga, LV-1083
+Oskars|Jaunzems|oskarsjaunzems@yahoo.com|28904114|Kārļa Ulmaņa gatve 137-16, Jelgava, LV-3002
+Elīza|Cīrule|elizacirule@gmail.com|28142078|Pērnavas iela 36-6, Rīga, LV-1009
+Gints|Zemdega|gintszemdega@hotmail.com|27819192|Matisa iela 30-8, Rīga, LV-1009
+Laima|Bērziņa|laimaberzina@yahoo.com|29507381|Pulka iela 15-4, Ogre, LV-5001
+Raimonds|Ozoliņš|raimondsozolins@hotmail.com|26928674|Ausekļa iela 1-2, Kuldīga, LV-3301
+Dace|Ābele|daceabele@gmail.com|26373924|Gogoļa iela 3-15, Rīga, LV-1007
+Kārlis|Čakste|karliscakste@hotmail.com|29123475|Kr.Valdemāra iela 8-10, Ventspils, LV-3601
+Anda|Zariņa|anda.zarina@yahoo.com|29385692|Stacijas iela 5-9, Tukums, LV-3101
+Jēkabs|Liepa|jekabsliepa@hotmail.com|26151199|Ganību dambis 19-22, Rīga, LV-1045
+Zane|Ozola|zaneozola@gmail.com|28173566|Krišjāņa Barona iela 17-11, Jūrmala, LV-2012
+Krišjānis|Valters|krisjanisvalters@hotmail.com|29589857|Daugavgrīvas iela 83-3, Rīga, LV-1007
+Inga|Bērziņa|ingaberzina@hotmail.com|26195478|Rūpniecības iela 13-8, Cēsis, LV-4101
+Jāzeps|Skrastiņš|jazepsskrastins@hotmail.com|28859901|Riga iela 5-4, Jēkabpils, LV-5201
+Dita|Dzērve|ditadzerve@hotmail.com|29463309|Ģertrūdes iela 23-6, Rīga, LV-1011
+Edīte|Sīle|editesile@yahoo.com|28481234|Maskavas iela 4-12, Rīga,L1050
+Andris|Priede|andrispriede@gmail.com|26818543|Pērnavas iela 31-14, Rīga, LV-1009
+Ieva|Briede|ievabriede@hotmail.com|29177745|Aristīda Briāna iela 7-18, Rīga, LV-1001
+Kārlis|Dambis|karlisdambis@hotmail.com|26173355|Augšzemes iela 3-5, Rīga, LV-1002
+Līga|Gailīte|ligagailite@gmail.com|28466798|Krasta iela 70-3, Rīga, LV-1019
+Andra|Zvejnieks|andra.zvejnieks@hotmail.com|28889343|Dzelzavas iela 120-14, Rīga, LV-1021
+Kornelija|Snikere|kornelija@gmail.com|25983353|hvjhgjh45
+
